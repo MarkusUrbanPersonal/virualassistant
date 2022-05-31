@@ -1,0 +1,6 @@
+{
+    "name": "get_email",
+    "entities": [
+        "subject:subject"
+    ]
+}

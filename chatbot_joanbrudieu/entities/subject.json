@@ -1,0 +1,42 @@
+{
+    "name": "subject",
+    "roles": [
+        "subject"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "consergeria",
+            "synonyms": [
+                "consergeria"
+            ]
+        },
+        {
+            "keyword": "educaci\u00f3 f\u00edsica",
+            "synonyms": [
+                "educaci\u00f3 f\u00edsica"
+            ]
+        },
+        {
+            "keyword": "f\u00edsica",
+            "synonyms": [
+                "f\u00edsica"
+            ]
+        },
+        {
+            "keyword": "matem\u00e0tiques",
+            "synonyms": [
+                "matem\u00e0tiques"
+            ]
+        },
+        {
+            "keyword": "qu\u00edmica",
+            "synonyms": [
+                "qu\u00edmica"
+            ]
+        }
+    ]
+}

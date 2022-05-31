@@ -1,0 +1,6 @@
+{
+    "name": "wit$search_query",
+    "roles": [
+        "search_query"
+    ]
+}

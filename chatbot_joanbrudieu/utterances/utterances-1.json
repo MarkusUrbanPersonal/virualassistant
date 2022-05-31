@@ -1,0 +1,80 @@
+{
+    "utterances": [
+        {
+            "text": "Correu de la professora de ci\u00e8ncies del m\u00f3n contemporani",
+            "entities": [],
+            "traits": [],
+            "intent": "get_email"
+        },
+        {
+            "text": "Correu de la professora de qu\u00edmica",
+            "entities": [
+                {
+                    "entity": "subject:subject",
+                    "start": 27,
+                    "end": 34,
+                    "body": "qu\u00edmica",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_email"
+        },
+        {
+            "text": "Quin correu t\u00e9 consergeria?",
+            "entities": [
+                {
+                    "entity": "subject:subject",
+                    "start": 15,
+                    "end": 26,
+                    "body": "consergeria",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_email"
+        },
+        {
+            "text": "Quin correu t\u00e9 el professor de f\u00edsica",
+            "entities": [
+                {
+                    "entity": "subject:subject",
+                    "start": 31,
+                    "end": 37,
+                    "body": "f\u00edsica",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_email"
+        },
+        {
+            "text": "Quin \u00e9s el correu de la professora de matem\u00e0tiques?",
+            "entities": [
+                {
+                    "entity": "subject:subject",
+                    "start": 38,
+                    "end": 50,
+                    "body": "matem\u00e0tiques",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_email"
+        },
+        {
+            "text": "Quin \u00e9s el correu del professor d'educaci\u00f3 f\u00edsica?",
+            "entities": [
+                {
+                    "entity": "subject:subject",
+                    "start": 34,
+                    "end": 49,
+                    "body": "educaci\u00f3 f\u00edsica",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_email"
+        }
+    ]
+}

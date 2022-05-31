@@ -1,0 +1,7 @@
+{
+    "version": 20200513,
+    "zip-command": "zip chatbot_joanbrudieu.zip chatbot_joanbrudieu\/app.json chatbot_joanbrudieu\/entities\/*.json chatbot_joanbrudieu\/intents\/*.json chatbot_joanbrudieu\/traits\/*.json chatbot_joanbrudieu\/utterances\/*.json",
+    "name": "chatbot_joanbrudieu",
+    "lang": "ca",
+    "timezone": "Europe\/Madrid"
+}
